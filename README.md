@@ -81,5 +81,4 @@ JWT-based authentication is required for job-related APIs.
 
 ## 📝 API Documentation
 
-Swagger UI is available at : 
-🔗 http://localhost:8080/api-docs
+Swagger UI is available [here](https://job-portal-nodejs-d8mr.onrender.com/api-doc/)

@@ -42,7 +42,7 @@ JWT_SECRET=your_secret_key
 ```
 4️⃣ Start the Server
 ```bash
-npm start
+npm run server
 ```
 Server runs at: http://localhost:8080
 

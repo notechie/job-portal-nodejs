@@ -4,6 +4,12 @@ A **Job Portal API** built using **Node.js, Express, and MongoDB**, allowing use
 
 ---
 
+## 📝 API Documentation
+
+Swagger UI is available [here](https://job-portal-nodejs-d8mr.onrender.com/api-doc/)
+
+---
+
 ## 🚀 Features
 - ✅ **User Authentication** (Register, Login, JWT Authentication)
 - ✅ **Job Management** (Create, Update, Delete, View Jobs)
@@ -76,9 +82,3 @@ JWT-based authentication is required for job-related APIs.
 | `/api/v1/job/update-job/:id`  | `PUT`     | Update a job by ID                | ✅ Yes            | ✅ Yes          |
 | `/api/v1/job/delete-job/:id`  | `DELETE`  | Delete a job by ID                | ✅ Yes            | ❌ No           |
 | `/api/v1/job/job-stats`       | `GET`     | Get job statistics                | ✅ Yes            | ❌ No           |
-
----
-
-## 📝 API Documentation
-
-Swagger UI is available [here](https://job-portal-nodejs-d8mr.onrender.com/api-doc/)
